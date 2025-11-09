@@ -5,3 +5,5 @@ Bananas
 Carrots
 Cherries
 Cereal
+Raddish
+Chocolate

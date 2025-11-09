@@ -4,3 +4,4 @@ Oragnes
 Bananas
 Carrots
 Cherries
+Cereal
